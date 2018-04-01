@@ -1,3 +1,5 @@
 # code your #position_taken? method here!
 
-array[index_number]
+def position_taken
+  array[index_number]
+end
